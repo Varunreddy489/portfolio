@@ -21,6 +21,7 @@ import {
   shopify,
   carrent,
   spotifyClone,
+  ecommerce ,
   jobit,
   tripguide,
   threejs,
@@ -218,7 +219,7 @@ const projects = [
       },
       {
         name: "node.js",
-        color: "green-text-gradient",
+        color: "gold-text-gradient",
       },
     ],
     image: spotifyClone,
@@ -227,7 +228,7 @@ const projects = [
   {
     name: "Ecommerce App",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that allows users to browse products, add items to a cart, make secure purchases, and track their orders in real-time.",    
     tags: [
       {
         name: "react",
@@ -238,12 +239,20 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "node.js",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "redis",
         color: "pink-text-gradient",
       },
+      {
+        name: "mongodb",
+        color: "purple-text-gradient",
+      },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: ecommerce,
+    source_code_link: "https://github.com/Varunreddy489/urbanBazaar",
   },
   {
     name: "Student App",
