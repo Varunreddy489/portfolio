@@ -31,8 +31,9 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
-import spotifyClone from "./spotifyClone.png";
 import ecommerce from "./ecommerce.png";
+import studentApp from "./studentApp.png";
+import spotifyClone from "./spotifyClone.png";
 
 
 
@@ -67,5 +68,6 @@ export {
   jobit,
   tripguide,
   spotifyClone,
-  ecommerce
+  ecommerce,
+  studentApp
 };

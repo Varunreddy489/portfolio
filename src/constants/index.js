@@ -23,7 +23,7 @@ import {
   spotifyClone,
   ecommerce ,
   jobit,
-  tripguide,
+  studentApp,
   threejs,
 } from "../assets";
 
@@ -257,23 +257,31 @@ const projects = [
   {
     name: "Student App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive student application that lets students connect and collaborate  .",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "postgres",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "prisma",
         color: "pink-text-gradient",
       },
+      {
+        name: "node.js",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "websocket",
+        color: "orange-text-gradient",
+      },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: studentApp,
+    source_code_link: "https://github.com/Varunreddy489/ClassConnect",
   },
 ];
 
